@@ -1,0 +1,11 @@
+<resources>
+
+
+    <string name="server_client_id">使用开发者自己申请的key</string>
+
+
+    <string name="facebook_app_id">使用开发者自己申请的key</string>
+    <string name="fb_login_protocol_scheme">使用开发者自己申请的key</string>
+
+
+</resources>
